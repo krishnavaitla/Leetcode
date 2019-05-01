@@ -28,7 +28,7 @@ class Solution(object):
                 if i == k:
                      counter = counter + 1
                 else:
-                     "no value"
+                     print("not found")
         return(counter)
 
 f = Solution()
